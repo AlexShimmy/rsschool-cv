@@ -62,6 +62,7 @@ The work tasks: selection of components for PCs, building of computer networks,
 installation and configuration of servers, consultations on working with the software.
 
 **System Administrator, LLC Moloko, Vitebsk**  
+**Aug, 2014 - Jun, 2015**  
 Building of computer networks, selection of computer components for purchasing and subsequent assembling of PCs,   
 user support on working with information systems
 
